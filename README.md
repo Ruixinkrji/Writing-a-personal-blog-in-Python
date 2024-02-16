@@ -1,2 +1,2 @@
-# RuiLianshenghuozhushou
-该存储库用于我的APP测试或者在某个页面链接到此处
+# -
+用于链接测试
